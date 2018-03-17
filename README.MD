@@ -1,6 +1,6 @@
 # To-Do App With Flask and Angular
 
-This project is a backend API where you can create users and add/update/delete items.
+This project creates a backend API where you can create users and add/update/delete items.
 
 Use the provided `requirements.txt` to install needed packages for this project in a virtual environment.
 
