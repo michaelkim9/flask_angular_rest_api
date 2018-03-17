@@ -11,4 +11,4 @@ After installing the required packages, please run the following command in your
 $ python app.py
 ```
 
-Use the PostMan application to access the API backend: [PostMan](https://www.getpostman.com/ "Postman Website")
+Use the PostMan application to access the API backend: [PostMan Website](https://www.getpostman.com/ "Postman Website")
